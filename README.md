@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanvallejo" alt="dylanvallejo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/DylanVallejo](github.com/DylanVallejo)
+- 👨‍💻 All of my projects are available at [github.com/DylanVallejo](www.github.com/DylanVallejo)
 
 - 📫 How to reach me **dylan1811vallejo@gmail.com**
 
