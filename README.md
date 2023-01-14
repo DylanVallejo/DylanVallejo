@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanvallejo" alt="dylanvallejo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/DylanVallejo](www.github.com/DylanVallejo)
+<!-- - 👨‍💻 All of my projects are available at [github.com/DylanVallejo](www.github.com/DylanVallejo) -->
 
 - 📫 How to reach me **dylan1811vallejo@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/dylan-vallejo](www.linkedin.com/in/dylan-vallejo)
+<!-- - 📄 Know about my experiences [www.linkedin.com/in/dylan-vallejo](www.linkedin.com/in/dylan-vallejo) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
