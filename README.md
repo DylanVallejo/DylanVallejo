@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Dylan Vallejo</h1>
 <h3 align="center">A developer who love to constantly learn and master mine skills</h3>
 
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DylanVallejo/count.svg" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanvallejo&label=Profile%20views&color=0e75b6&style=flat" alt="dylanvallejo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dylanvallejo" alt="dylanvallejo" /></a> </p>
