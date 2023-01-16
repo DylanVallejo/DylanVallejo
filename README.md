@@ -4,12 +4,14 @@
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
-<a href=#><img src="contributions.svg"></a>
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DylanVallejo/count.svg" />
 </p>
+
+![contributions](https://user-images.githubusercontent.com/99937413/212705506-dc329901-1b5b-4b4b-a10e-39d429196266.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dylanvallejo&label=Profile%20views&color=0e75b6&style=flat" alt="dylanvallejo" /> </p>
 
