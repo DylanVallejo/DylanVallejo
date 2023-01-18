@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Dylan Vallejo</h1>
 <h3 align="center">A developer who love to constantly learn and master mine skills</h3>
 
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/DylanVallejo/count.svg" />
