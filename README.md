@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dylan Vallejo</h1>
-<h3 align="center">A developer who love to constantly learn and master mine skills</h3>
+<h3 align="center">A developer who loves to learn and teach. </h3>
 
 <p align="center"> 
   Visitor count<br>
